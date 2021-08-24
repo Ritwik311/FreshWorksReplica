@@ -1,0 +1,178 @@
+#title{
+  background: linear-gradient(90deg,#E9E0F5,#C0AED9,#8D6FB6,#7552A6);
+}
+
+header{
+  height: 60px;
+}
+
+.fixed-top{
+  height: 60px;
+  background-color: #0B1320;
+  position: fixed;
+}
+
+.brand-positioning{
+  margin-left: 7.5%;
+
+}
+
+.col-md-6{
+  margin-top: 70px;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+h1{
+  font-family: 'Lato', sans-serif;
+  color: #000;
+  font-size: 6.2rem;
+  font-weight: bolder;
+}
+
+.title-para{
+  font-size: 120%;
+  margin-top: 0;
+}
+
+h2{
+  font-family: 'Lato', sans-serif;
+  font-size: 2.7rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+h3{
+  font-family: 'Lato', sans-serif;
+  font-weight: bolder;
+}
+
+h4{
+  font-family: 'Lato', sans-serif;
+}
+
+h5{
+   font-family: 'Lato', sans-serif;
+}
+
+.container-fluid{
+  padding: 3% 10%;
+}
+
+.right-button{
+  margin-left: 3%;
+}
+
+#experience{
+  text-align: center;
+}
+
+.experience-text{
+  margin-top: 7%;
+}
+
+.grey{
+  color: grey;
+  font-size: 150%;
+  padding: 0% 8% 0% 8%;
+}
+
+.two-col{
+  margin-top: 5%;
+}
+
+.customer-img{
+  width:350px;
+}
+
+.employee-img{
+  width: 290px;
+  border-radius: 100%;
+  padding-top: 3px;
+  margin-top: 32px;
+}
+
+.advantages-styling{
+  margin-top: 10%;
+  text-align: center;
+  background-color: #0B1320;
+  color: #fff;
+  padding-bottom: 8%;
+}
+
+.img{
+  width : 200px;
+}
+
+#press{
+  text-align: center;
+  padding-bottom: 0.5%;
+  padding-left:5%;
+  padding-right:5%;
+}
+
+.small-text{
+  font-size: 1.05rem;
+}
+
+.svc-images{
+  width: 80px;
+  margin: 3%;
+  margin-top: 0;
+  margin-bottom: 2%;
+}
+
+.branding{
+  width: 12%;
+  margin: 3%;
+  margin-top: 0;
+  margin-bottom: 2%;
+}
+
+#partnership{
+  margin-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+  background-color: #DCDCDC;
+  color: black;
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.col{
+  text-align: left;
+}
+
+.aspire-images{
+  width: 200px;
+  border-radius: 50%;
+  padding-bottom: 10%;
+}
+
+.button-padding{
+  padding: 5% 0 10% 0;
+}
+
+#get-started{
+  text-align: center;
+  background-color: #000;
+  color: white;
+}
+.get-started-text{
+  padding-left: 10px;
+  padding-right:10px;
+}
+
+#footer{
+  background-color: white;
+  text-align: center;
+  padding-top: 3%;
+}
+
+.copyright{
+  color: grey;
+  font-family:monospace;
+}
